@@ -1,7 +1,10 @@
 # TEDVAE
  
  
-Pytorch implementation for the code in "Treatment effect estimation with disentangled latent factors"
+Pytorch implementation for the code in "Treatment effect estimation with disentangled latent factors".
+This paper has been published at the 35th AAAI Conference on Artificial Intelligence (AAAI-21).
+
+For enquiries, please send email to: weijia.zhang.xh@gmail.com
 
 Requirement: 
 Pytorch 1.5.0.
